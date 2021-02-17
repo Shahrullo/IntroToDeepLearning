@@ -1,5 +1,7 @@
 # IntroToDeepLearning 
 
+[![banner](https://github.com/aamini/introtodeeplearning/blob/master/assets/banner.png)](http://introtodeeplearning.com)
+
 This repository is created for software lab works of [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) course.
 All the notebooks of exercises are taken [from](https://github.com/aamini/introtodeeplearning/). I only show my solutions.
 
