@@ -1,3 +1,3 @@
 # Lab 1: Intro to TensorFlow and Music Generation with RNNs
 
-<img href="https://raw.githubusercontent.com/aamini/introtodeeplearning/master/lab1/img/music_waveform.png">
+![alt text](https://github.com/aamini/introtodeeplearning/raw/master/lab1/img/music_waveform.png)
